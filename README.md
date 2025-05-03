@@ -22,13 +22,6 @@
 - Flutter/Dart言語
 - Material Design 3
 - Riverpod状態管理
-- GitHub: [https://github.com/h.kamiyama/emorank-app](https://github.com/h.kamiyama/emorank-app)
-
-## インストール方法
-
-```bash
-# リポジトリをクローン
-git clone https://github.com/h.kamiyama/emorank-app.git
 
 # 依存関係をインストール
 cd emorank-app
@@ -43,7 +36,3 @@ flutter run / flutter run -d chrome
 - iOS
 - Android
 - Web（ブラウザで動作）
-
-## ライセンス
-
-This app is based on the board game "EMORANK" by Shusuke Takahashi and illustrated by TANSAN.
