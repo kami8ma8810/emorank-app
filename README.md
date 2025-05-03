@@ -1,2 +1,49 @@
-# emorank-app
-エモラン Emornk
+# エモラン (EMORANK)
+
+「エモラン」は、友達や家族と一緒に楽しむ感情ランキングゲームのモバイルアプリ版です。「運動会で」「はずかしいこと」などのテーマに沿った答えを全員が書き、親プレイヤーはそれぞれの回答を感情の度合いで順位づけしていきます。
+
+## 機能
+
+- オンラインでボードゲーム「エモラン」をプレイ
+- 友達とルームを作成して一緒にプレイ
+- シチュエーションカードと感情カードの組み合わせでユニークなゲーム体験
+- 結果の保存と統計
+
+## 使い方
+
+1. アプリを起動して「ゲームを始める」をタップ
+2. シチュエーションカードと感情カードを選択
+3. 割り当てられた順位に合わせて回答を入力
+4. 全員の回答が揃ったらランキングを決定
+5. 結果を確認して得点を獲得
+
+## 開発環境
+
+- Flutter/Dart言語
+- Material Design 3
+- Riverpod状態管理
+- GitHub: [https://github.com/h.kamiyama/emorank-app](https://github.com/h.kamiyama/emorank-app)
+
+## インストール方法
+
+```bash
+# リポジトリをクローン
+git clone https://github.com/h.kamiyama/emorank-app.git
+
+# 依存関係をインストール
+cd emorank-app
+flutter pub get
+
+# アプリケーションを実行
+flutter run / flutter run -d chrome
+```
+
+## 対応プラットフォーム
+
+- iOS
+- Android
+- Web（ブラウザで動作）
+
+## ライセンス
+
+This app is based on the board game "EMORANK" by Shusuke Takahashi and illustrated by TANSAN.
